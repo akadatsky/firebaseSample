@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "784572917635",
+    "project_id": "hillel-test-app",
+    "storage_bucket": "hillel-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784572917635:android:89380770f757037f1f78b6",
+        "android_client_info": {
+          "package_name": "com.akadatsky.firebasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784572917635-s4vt8potgu5qqqegmggq2b887bktkd1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akadatsky.firebasesample",
+            "certificate_hash": "fd7323fa05bd8e05e9d80e080980d968ca4ad4be"
+          }
+        },
+        {
+          "client_id": "784572917635-a0hrqp95ijc7u6jsh9d1u743f3b5thmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6OInjTwnVwDWlAflpX91ut9nIzN5vthY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784572917635-a0hrqp95ijc7u6jsh9d1u743f3b5thmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
